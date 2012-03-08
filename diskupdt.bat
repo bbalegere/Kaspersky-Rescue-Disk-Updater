@@ -62,7 +62,7 @@ title Copying the Updated Virus Definition Files to your Rescue Disk
 copy .\KLUpdater\Updates\bases\av\kdb\i386\*.* .\kavrescue\rescue\bases\ > nul
 copy .\KLUpdater\Updates\bases\av\emu\i386\*.* .\kavrescue\rescue\bases\ > nul
 copy .\KLUpdater\Updates\bases\av\kdb\i386\kdb-i386-0607g.xml .\kavrescue\rescue\bases\kdb-0607g.xml > nul
-copy .\KLUpdater\Updates\bases\av\kdb\i386\kdbi386.stt .\kavrescue\rescue\bases\stat\kdb.stt > nul
+copy /y .\KLUpdater\Updates\bases\av\kdb\i386\kdb.stt .\kavrescue\rescue\bases\stat\kdb.stt > nul
 copy .\KLUpdater\Updates\index\u0607g.xml .\kavrescue\rescue\bases\stat\u0607g.xml > nul
 echo Successfully Copied Updated Definition Files to your Rescue Disk
 echo.
