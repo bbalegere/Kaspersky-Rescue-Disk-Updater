@@ -1,0 +1,9 @@
+timeout 30
+
+default 0
+
+title Kaspersky Rescue Disk 10
+find --set-root /rescue/rescueusb.iso
+map /rescue/rescueusb.iso (0xff) || map --mem /rescue/rescueusb.iso (0xff)
+map --hook
+chainloader (0xff)
