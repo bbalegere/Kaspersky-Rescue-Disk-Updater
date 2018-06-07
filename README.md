@@ -1,5 +1,7 @@
 http://agnipulse.com/2009/12/kaspersky-rescue-disk-updater/
 
+Download latest ISO of Kaspersky Rescue Disk 10 (updated 2018/05/28, stored on Google Drive) : <a href="http://bit.ly/kav_rescue_disk_updated" target="_blank">here</a>
+
 Kaspersky Rescue Disk Updater is a tool which uses KLUpdater to update the virus definitions of the Kaspersky Rescue Disk 10 ISO.
 
 Kaspersky Rescue Disk 10 can scan and remove viruses without booting into windows.The main disadvantage of Kaspersky Rescue Disk 10 is that it is not updated regularly.Even when it is updated there is no option to update your existing iso with the changes.You will have to download the entire iso.
